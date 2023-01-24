@@ -1,6 +1,6 @@
 {
-  "name": "first-extension",
-  "displayName": "first-extension",
+  "name": "first-extension-aadil-mallick",
+  "displayName": "first-extension by Aadil Mallick",
   "description": "This is my first extension",
   "version": "0.0.1",
   "engines": {
@@ -45,5 +45,9 @@
   "dependencies": {
     "axios": "^1.2.2",
     "fast-xml-parser": "^4.0.12"
+  },
+  "publisher": "fupo5nze45m2xa542wdurvqiaqvvh3j63ales33hwnahabinz4wq",
+  "repository": {
+    "url": "https://github.com/aadilmallick/first-extension-vscode"
   }
 }
